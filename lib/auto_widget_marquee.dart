@@ -1,4 +1,4 @@
-library automarquee;
+library auto_widget_marquee;
 
 import 'dart:async';
 import 'package:flutter/material.dart';

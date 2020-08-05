@@ -1,8 +1,8 @@
-name: automarquee
+name: auto_widget_marquee
 description: 一个滚动显示组件
 version: 0.0.1
-author:
-homepage:
+author: hch
+homepage: https://github.com/sweatfryash/auto_marquee
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
